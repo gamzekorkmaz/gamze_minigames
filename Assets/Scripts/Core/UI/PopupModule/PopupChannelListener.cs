@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace GFA.TPS.UI
+namespace Core.UI.PopupModule
 {
     public class PopupChannelListener : MonoBehaviour
     {
